@@ -8,7 +8,7 @@ La API Gutendex es un catálogo de información de más de 70.000 libros present
 
 El proyecto incluye las siguientes funcionalidades:
 
-![Imagen menu]()
+![Imagen menu](https://github.com/Alejandraglezjaime/Aplicaci-n-de-libros/blob/master/Img/menuPrincipal.jpg?raw=true)
 
 1. **Buscar Libro.** En esta etapa realizamos consulta de un libro en específico por su título en la API, con la ayuda de la URL base *“https://gutendex.com/books/"* y retenerá el primer resultado obtenido, pasa posterior guardarlo en la base de datos de PostgreSQL Driver. El libro debe tener los siguientes atributos:
 
@@ -41,9 +41,11 @@ La aplicación considera que un libro posee solo un autor, para que las consulta
 
 - [ ] **Listar autores con otras consultas.**  Implementa otras consultas con los atributos de año de nacimiento y fallecimiento de los autores. 
 
+- [ ] **Realizar su front End para facilidad del usuario.** 
+
 #### FUNCIONALIDAD CODIGO .
 
-![Imagen consola funcionando]()
+![Imagen consola funcionando](https://github.com/Alejandraglezjaime/Aplicaci-n-de-libros/blob/master/Img/Funcionamiento.jpg?raw=true)
 
 ## PERSISTENCIA DE DATOS 
 
@@ -57,9 +59,9 @@ Al crear los repositorios de libros y autores, recuerda realizar la conversión 
 
 [IMPORTANTE] Al insertar un libro en la base también deberás insertar su autor y así mantener una relación entre los dos objetos vía atributo de identificación (o como lo llamamos, el famoso ID).
 
-![Imagen base de datos tabla libros]()
+![Imagen base de datos tabla libros](https://github.com/Alejandraglezjaime/Aplicaci-n-de-libros/blob/master/Img/baseDeDatoslibro.jpg?raw=true)
 
-![Imagen base de datos tabla autores]()
+![Imagen base de datos tabla autores](https://github.com/Alejandraglezjaime/Aplicaci-n-de-libros/blob/master/Img/baseDeDatosAutores.jpg?raw=true)
 
 
 
