@@ -63,7 +63,12 @@ Al crear los repositorios de libros y autores, recuerda realizar la conversión 
 
 ![Imagen base de datos tabla autores](https://github.com/Alejandraglezjaime/Aplicaci-n-de-libros/blob/master/Img/baseDeDatosAutores.jpg?raw=true)
 
+## DEPENDENCIAS
+
+![Imagen dependencias de spring ](https://github.com/Alejandraglezjaime/Aplicaci-n-de-libros/blob/master/Img/dependencias.jpg?raw=true)
 
 
 # AUTOR
 #### © Alejandra Gonzalez  
+
+![Imagen finalizacion challenge  ](https://github.com/Alejandraglezjaime/Aplicaci-n-de-libros/blob/master/Img/badge%20literalura.png?raw=true)
